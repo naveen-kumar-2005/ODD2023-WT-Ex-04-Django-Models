@@ -1,4 +1,4 @@
-![image](https://github.com/naveen-kumar-2005/ODD2023-WT-Ex-04-Django-Models/assets/145742865/8ddb73ca-0d8c-456a-a2e3-86a24e2b054e)# Ex-04-Django-Models
+
 # Aim:
 display user profile data using template-view model in django framework
 
