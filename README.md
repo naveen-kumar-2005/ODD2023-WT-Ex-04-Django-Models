@@ -118,7 +118,8 @@ And in the user_profile template page you can see the profile page of the use
 # output
 ![Alt text](<Screenshot 2023-11-20 112807-1.png>)
 
-![Alt text](<Screenshot 2023-11-20 112807-2.png>)
+![Screenshot 2023-11-20 112757](https://github.com/naveen-kumar-2005/ODD2023-WT-Ex-04-Django-Models/assets/145742865/56c280d0-b832-4ac2-89be-cb3c85f0a09b)
+
 
 # result:
 
