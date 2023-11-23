@@ -1,4 +1,4 @@
-# Ex-04-Django-Models
+![image](https://github.com/naveen-kumar-2005/ODD2023-WT-Ex-04-Django-Models/assets/145742865/8ddb73ca-0d8c-456a-a2e3-86a24e2b054e)# Ex-04-Django-Models
 # Aim:
 display user profile data using template-view model in django framework
 
@@ -118,7 +118,10 @@ And in the user_profile template page you can see the profile page of the use
 # output
 ![Alt text](<Screenshot 2023-11-20 112807-1.png>)
 
-![Screenshot 2023-11-20 112757](https://github.com/naveen-kumar-2005/ODD2023-WT-Ex-04-Django-Models/assets/145742865/56c280d0-b832-4ac2-89be-cb3c85f0a09b)
+![Screenshot 2023-11-23 101937](https://github.com/naveen-kumar-2005/ODD2023-WT-Ex-04-Django-Models/assets/145742865/99815377-7ed2-4c04-bf41-5126c1deee75)
+
+
+
 
 
 # result:
