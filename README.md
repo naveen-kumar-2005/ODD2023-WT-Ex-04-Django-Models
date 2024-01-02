@@ -1,4 +1,4 @@
-# Ex-04-Django-Models
+# Ex-05-Django-Models
 
 # Name: NAVEEN KUMAR.R
 # Reference no: 23013536
